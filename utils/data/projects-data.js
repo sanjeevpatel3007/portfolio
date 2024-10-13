@@ -15,8 +15,8 @@ export const projectsData = [
         code: '',
         demo: '',
         image: '',
-        link: 'https://joblynk-frontend.onrender.com/',
-        projectgithub: 'https://github.com/sanjeevpatel3007/jobLynk',
+        link: 'https://job-portal-frontend-mu.vercel.app/',
+        projectgithub: 'https://github.com/sanjeevpatel3007/JobPortal',
       },
       {
         id: 2,
