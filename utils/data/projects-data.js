@@ -17,7 +17,7 @@ export const projectsData = [
       demo: '',
       image: '',
       link: 'https://pdf-text-bot.vercel.app/',
-      projectgithub: ' https://github.com/sanjeevpatel3007/PDFTextBot'
+      projectgithub: 'https://github.com/sanjeevpatel3007/PDFTextBot'
 
 
        
