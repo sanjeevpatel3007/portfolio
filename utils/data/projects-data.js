@@ -1,8 +1,3 @@
-import { GoogleAnalytics } from '@next/third-parties/google';
-import ayla from '/public/image/ayla.jpg';
-import crefin from '/public/image/crefin.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
    
@@ -19,8 +14,6 @@ export const projectsData = [
       link: 'https://pdf-text-bot.vercel.app/',
       projectgithub: 'https://github.com/sanjeevpatel3007/PDFTextBot'
 
-
-       
       },
       {
         id: 2,
@@ -47,8 +40,6 @@ export const projectsData = [
         link: 'https://joblynk-frontend.onrender.com/',
         projectgithub: 'https://github.com/sanjeevpatel3007/jobLynk',
 
-
-      
       }
       ,
     
