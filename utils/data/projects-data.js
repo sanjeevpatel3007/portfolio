@@ -7,20 +7,16 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
    
     {
-
-      id: 1,
-      name: 'PDFTextBOT: AI-Integrated Full Stack Project',
-      description: "I developed an AI-powered chatbot that processes both PDF and text inputs to generate relevant and accurate responses. The backend was built using Node.js, and the front end is powered by Next.js with Tailwind CSS for responsive design. The chatbot integrates AI models via the OpenAI API to enhance user input and provide smarter responses. The project is deployed on Vercel for high availability.",
-      tools: ['Next.js', 'Node.js', 'OpenAI API', 'Tailwind CSS', 'Vercel'],
-      role: 'Full Stack Developer',
-      code: '',
-      demo: '',
-      image: '',
-      link: 'https://pdf-text-bot.vercel.app/',
-      projectgithub: ' https://github.com/sanjeevpatel3007/PDFTextBot'
-
-
-       
+        id: 1,
+        name: 'JobLynk',
+        description: 'JobLynk is a comprehensive MERN stack job portal application designed to connect students with potential job opportunities. It allows job seekers to create profiles, browse job listings, and apply for positions, while enabling companies to post job vacancies, manage applications, and find suitable candidates efficiently. The platform features a responsive design for optimal user experience across devices and implements secure user authentication.',
+        tools: ['React', 'Vite', 'TailwindCSS', 'Node.js', 'Express.js', 'MongoDB', 'JWT', 'Multer', 'Redux Toolkit', 'Axios', 'Radix UI'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+        image: '',
+        link: 'https://joblynk-frontend.onrender.com/',
+        projectgithub: 'https://github.com/sanjeevpatel3007/jobLynk',
       },
       {
         id: 2,
