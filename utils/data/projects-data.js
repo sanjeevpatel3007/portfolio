@@ -37,7 +37,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: '',
-        link: 'https://joblynk-frontend.onrender.com/',
+        link: 'https://github.com/sanjeevpatel3007/jobLynk',
         projectgithub: 'https://github.com/sanjeevpatel3007/jobLynk',
 
       }
