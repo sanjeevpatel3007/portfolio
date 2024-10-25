@@ -37,8 +37,8 @@ export const projectsData = [
         code: '',
         demo: '',
         image: '',
-        link: 'https://github.com/sanjeevpatel3007/jobLynk',
-        projectgithub: 'https://github.com/sanjeevpatel3007/jobLynk',
+        link: 'https://job-portal-frontend-mu.vercel.app/',
+        projectgithub: 'https://github.com/sanjeevpatel3007/JobPortal',
 
       }
       ,
