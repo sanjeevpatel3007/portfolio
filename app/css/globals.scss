@@ -37,3 +37,50 @@ body {
   // padding-top: calc(var(--index) * 2.5rem);
   top: calc(var(--index) * 4rem);
 }
+
+
+
+
+
+
+/* Hide cursor on mobile devices */
+@media (max-width: 768px) {
+  .cursor-dot, .cursor-outline {
+    display: none;
+  }
+}
+
+/* Add these styles */
+a, button, [role="button"] {
+  &:hover ~ .cursor-dot {
+    transform: scale(2);
+  }
+  &:hover ~ .cursor-ring {
+    transform: scale(1.5);
+  }
+}
+
+/* Hide default cursor when custom cursor is active */
+@media (min-width: 768px) {
+  * {
+    cursor: none !important;
+  }
+}
+
+/* Add these styles for smoother particle animations */
+// @keyframes particle-fade {
+//   0% {
+//     transform: translate(-50%, -50%) scale(1);
+//     opacity: 1;
+//   }
+//   100% {
+//     transform: translate(-50%, -50%) scale(0);
+//     opacity: 0;
+//   }
+// }
+
+// /* Optional: Add a subtle glow effect to particles */
+// .particle {
+//   filter: blur(0.5px);
+//   box-shadow: 0 0 8px rgba(22, 242, 179, 0.3);
+// }
