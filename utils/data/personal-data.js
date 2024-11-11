@@ -1,6 +1,6 @@
 export const personalData = {
   name: "SANJEEV PATEL",
-  profile: '/profile2.jpg',
+  profile: '/profile3.png',
   designation: "Software Developer",
   description: "My name is Sanjeev Patel, and I am a passionate and dedicated software developer. With a strong aptitude for learning, I continually explore new technologies, driven by a love for problem-solving. I specialize in JavaScript and the MERN stack for developing web applications. My goal is to make the web more accessible and open to everyone. I have worked on several projects  that have strengthened my skills in web development. As a fresher, I am currently seeking job opportunities where I can apply my skills and grow in my career.",
   email: 'sanjeevpatel3007@gmail.com',
